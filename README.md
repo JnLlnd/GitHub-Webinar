@@ -2,6 +2,6 @@
 
 Welcome to my demo repository.
 
-Hello from SourceTree !
+Hello from SourceTree!
 
-Welcome to the beta branch.
+Welcome to the beta branch!
